@@ -16,7 +16,7 @@
 
 <ul>
   <li><a href="#-iniciando-projeto">Iniciando projeto</a></li>
-  <li><a href="#-back-end-node-com-typescript">Back-end Node com TypeScript</a></li>
+  <li><a href="#%EF%B8%8F-back-end-node-com-typescript">Back-end Node com TypeScript</a></li>
   <li><a href="#-front-end-react-com-typescript">Front-end React com TypeScript</a></li>
 
   <li><a
